@@ -2,7 +2,7 @@
 #include <stdlib.h> 
 #include <string.h> 
 #include <ctype.h> 
-
+//dop proekta
 char* CreateNewString(char* s1);
 
 void main() {
